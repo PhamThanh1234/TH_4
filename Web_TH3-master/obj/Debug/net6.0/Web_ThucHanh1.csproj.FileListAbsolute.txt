@@ -1,0 +1,60 @@
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\bin\Debug\net6.0\appsettings.json
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\bin\Debug\net6.0\Web_ThucHanh1.staticwebassets.runtime.json
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\bin\Debug\net6.0\Web_ThucHanh1.exe
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\bin\Debug\net6.0\Web_ThucHanh1.deps.json
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\bin\Debug\net6.0\Web_ThucHanh1.runtimeconfig.json
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\bin\Debug\net6.0\Web_ThucHanh1.dll
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\bin\Debug\net6.0\Web_ThucHanh1.pdb
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\Web_ThucHanh1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\Web_ThucHanh1.AssemblyInfoInputs.cache
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\Web_ThucHanh1.AssemblyInfo.cs
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\Web_ThucHanh1.csproj.CoreCompileInputs.cache
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\Web_ThucHanh1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\Web_ThucHanh1.RazorAssemblyInfo.cache
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\Web_ThucHanh1.RazorAssemblyInfo.cs
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\staticwebassets\msbuild.Web_ThucHanh1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\staticwebassets\msbuild.build.Web_ThucHanh1.props
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Web_ThucHanh1.props
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Web_ThucHanh1.props
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\scopedcss\bundle\Web_ThucHanh1.styles.css
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\scopedcss\projectbundle\Web_ThucHanh1.bundle.scp.css
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\Web_ThucHanh1.dll
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\refint\Web_ThucHanh1.dll
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\Web_ThucHanh1.pdb
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\Web_ThucHanh1.genruntimeconfig.cache
+C:\Users\Pham Hoang\source\repos\Web_ThucHanh1\obj\Debug\net6.0\ref\Web_ThucHanh1.dll
+D:\WebC#\Web_TH3-master\Web_TH3-master\bin\Debug\net6.0\appsettings.Development.json
+D:\WebC#\Web_TH3-master\Web_TH3-master\bin\Debug\net6.0\appsettings.json
+D:\WebC#\Web_TH3-master\Web_TH3-master\bin\Debug\net6.0\Web_ThucHanh1.staticwebassets.runtime.json
+D:\WebC#\Web_TH3-master\Web_TH3-master\bin\Debug\net6.0\Web_ThucHanh1.exe
+D:\WebC#\Web_TH3-master\Web_TH3-master\bin\Debug\net6.0\Web_ThucHanh1.deps.json
+D:\WebC#\Web_TH3-master\Web_TH3-master\bin\Debug\net6.0\Web_ThucHanh1.runtimeconfig.json
+D:\WebC#\Web_TH3-master\Web_TH3-master\bin\Debug\net6.0\Web_ThucHanh1.dll
+D:\WebC#\Web_TH3-master\Web_TH3-master\bin\Debug\net6.0\Web_ThucHanh1.pdb
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\Web_ThucHanh1.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\Web_ThucHanh1.AssemblyInfoInputs.cache
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\Web_ThucHanh1.AssemblyInfo.cs
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\Web_ThucHanh1.csproj.CoreCompileInputs.cache
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\Web_ThucHanh1.MvcApplicationPartsAssemblyInfo.cache
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\Web_ThucHanh1.RazorAssemblyInfo.cache
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\Web_ThucHanh1.RazorAssemblyInfo.cs
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\staticwebassets\msbuild.Web_ThucHanh1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\staticwebassets\msbuild.build.Web_ThucHanh1.props
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Web_ThucHanh1.props
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Web_ThucHanh1.props
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\staticwebassets.pack.json
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\staticwebassets.build.json
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\staticwebassets.development.json
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\scopedcss\bundle\Web_ThucHanh1.styles.css
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\scopedcss\projectbundle\Web_ThucHanh1.bundle.scp.css
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\Web_ThucHanh1.dll
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\refint\Web_ThucHanh1.dll
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\Web_ThucHanh1.pdb
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\Web_ThucHanh1.genruntimeconfig.cache
+D:\WebC#\Web_TH3-master\Web_TH3-master\obj\Debug\net6.0\ref\Web_ThucHanh1.dll
